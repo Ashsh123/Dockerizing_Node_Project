@@ -1,2 +1,4 @@
 Dockerfile
 Notes.txt
+.env
+node_modules
